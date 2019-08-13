@@ -3,7 +3,7 @@ import { connect } from 'react-redux'
 import { bindActionCreators } from 'redux'
 
 import { getSummary } from './dashboardActions'
-import ContentHeader from '../common/template/contentHeadr'
+import ContentHeader from '../common/template/contentHeader'
 import Content from '../common/template/content'
 import ValueBox from '../common/widget/valueBox'
 import Row from '../common/layout/row'
